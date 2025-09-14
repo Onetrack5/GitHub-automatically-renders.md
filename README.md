@@ -41,31 +41,8 @@ Built for both quick tidying and full‑service maintenance.
 - Cancel button stops mid‑run gracefully
 - System restore point creation before cleanup
 
-📸 UI Overview
-[Main Form: Windows 11 Deep Cleanup v1.1.0]
-│
-├── Header & Branding
-│   ├─ Title, Acrylic Blur, Theme Toggle, Contrast, Font Size, Version Label
-├── Modes
-│   ├─ Quick Cleanup
-│   └─ Deep Maintenance
-├── Task Selection Area
-│   ├─ 21 Cleanup Step Checkboxes
-│   │   ├─ Safe pre‑checked
-│   │   ├─ Risky unchecked + confirmation prompts
-│   │   └─ Tooltips for each
-├── Progress & Status
-│   ├─ Progress Bar
-│   ├─ Step Counter
-│   └─ Color‑coded Log
-├── Control Buttons
-│   ├─ Start, Cancel, Save Log, Theme, Contrast, Font, About, Help, Save/Load Profile
-└── Post‑Execution Summary
-    ├─ Fade‑in
-    ├─ Disk Space Before/After/Freed
-    ├─ Time Taken
-    ├─ Open Log, Run Again, Exit
-    └─ Version Label
+📸 UI Overview <img width="862" height="701" alt="image" src="https://github.com/user-attachments/assets/aa6cee15-02c1-4a5f-a420-6f104469abf6" />
+
 
 
 
