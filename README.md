@@ -41,10 +41,9 @@ Built for both quick tidying and full‑service maintenance.
 - Cancel button stops mid‑run gracefully
 - System restore point creation before cleanup
 
-📸 UI Overview <img width="862" height="701" alt="image" src="https://github.com/user-attachments/assets/aa6cee15-02c1-4a5f-a420-6f104469abf6" />
+📸 UI Overview
 
-
-
+<img width="862" height="701" alt="image" src="https://github.com/user-attachments/assets/aa6cee15-02c1-4a5f-a420-6f104469abf6" />
 
 🚀 Usage
 - Run as Administrator
